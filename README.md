@@ -7,4 +7,4 @@ PDF hash extraction
 
 # Project Module 2 Tools
 Hash Calculator
-PDF Cracker
+Password Cracker
