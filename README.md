@@ -45,7 +45,6 @@ This repository documents practical work completed during the **Networkwalks Cyb
 | Windows environment | Running the desktop assessment utilities |
 | Web browser | Accessing the hash calculator / extraction interface |
 
-*Tool versions and exact command-line options were not visible in the supplied screenshots and are therefore not specified.*
 
 ## Workflow Summary
 
