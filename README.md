@@ -56,19 +56,17 @@ This repository documents practical work completed during the **Networkwalks Cyb
 
 ## Evidence and Screenshots
 
-The screenshots below are selected from the 14-page evidence document supplied for this project. Sensitive output has been blurred before inclusion.
+### PM1 — JTR
+![JTR](week3/screenshots/JTR1.png)
+
+
+### PM1 — PDF Hash Extraction
 
 ### PM2 — Hash Calculator
-![Hash Calculator interface](assets/screenshots/pm2-hash-calculator-redacted.png)
 
-### PM1 — JTR assessment progress
-![JTR assessment progress](assets/screenshots/pm1-jtr-audit-progress-redacted.png)
 
-### PM1 — Password validation workflow
-![Password validation workflow](assets/screenshots/pm1-password-validation-redacted.png)
+### PM2 — Password Cracker
 
-### PM2 — PDF hash extraction
-![PDF hash extraction interface](assets/screenshots/pm2-pdf-hash-extraction-redacted.png)
 
 ## Key Learning Outcomes
 
@@ -89,12 +87,11 @@ This documentation is based on the screenshots supplied for the internship proje
 networkwalks-b084/
 ├── README.md
 ├── Project-Report.docx
-└── assets/
-    └── screenshots/
-        ├── pm1-jtr-audit-progress-redacted.png
-        ├── pm1-password-validation-redacted.png
-        ├── pm2-hash-calculator-redacted.png
-        └── pm2-pdf-hash-extraction-redacted.png
+└── screenshots/
+        ├── pm1-JTR.png
+        ├── pm1-PDF-Hash-Extraction.png
+        ├── pm2-hash-calculator.png
+        └── pm2-password-cracker.png
 ```
 
 ## Author
